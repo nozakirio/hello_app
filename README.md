@@ -1,4 +1,4 @@
-# Ruby on Rails Tutorialgit status
+# Ruby on Rails Tutorial
 
 ## "hello, world!"
 
